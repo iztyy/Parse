@@ -229,7 +229,7 @@ function ckstyle() {
 				t = "";
 			var s = 0;
 			var r = unescape(z).split("//");
-			if (r.length > 0) {
+			if (r.length > 0) {111
 				l = r[0] + "//"
 			}
 			var h = "http|https|ftp|rtsp|mms|ftp|rtmp|file";
